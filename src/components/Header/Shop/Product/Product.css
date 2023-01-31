@@ -28,9 +28,9 @@ font-style: normal;
 }
 .btn-cart{
     width: 100%;
-    background: #eac58e;
+    background: #f7bd66;
     border: none;
-    border-radius: 0px 0px 8px 8px;
+    border-radius: 0px 0px 5px 5px;
     position: absolute;
     bottom: 0;
     display: flex;
@@ -38,7 +38,7 @@ font-style: normal;
     justify-content: center;
 }
 .btn-cart:hover{
-    background: rgb(232, 168, 48);
+    background: rgb(240, 209, 152);
 }
 .icon{
     margin-top: 9px;
